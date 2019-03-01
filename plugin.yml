@@ -1,0 +1,5 @@
+name: JoinTitle
+version: 2.1
+author: vndong1019
+api: 3.0.0
+main: jointitle\Main
