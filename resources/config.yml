@@ -1,0 +1,18 @@
+---
+# JoinTitle By vndong1019
+# Configuration File
+
+# Set true or false to enable or disable titles on join
+Title-on-join: true
+
+# Text Configuration
+# You may use & as your color codes.
+Title: "Welcome To My Server"
+Subtitle: "Vote Today!"
+
+# Time Configuration
+# 20 ticks = 1 second
+Fade-In: 20
+Lenght: 20
+Fade-Out: 20
+...
